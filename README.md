@@ -4,7 +4,7 @@
 Day01 231021  
   01. OT  
    o 시험 환경  
-    - python3.7.4 / PyCharm 2021.1.3 설치 (Add PATH 클릭)  
+    - python3.9.6 / PyCharm 2021.1.3 설치 (Add PATH 클릭)  
     - Anaconda 사용 시 시험 환경(설치된 패키지)과 다를 수 있음  
     - jupyter notebook과 같이 한줄 씩 실행 불가능 (시험 환경: 구름 https://dataq.goorm.io/exam/116674/%EC%B2%B4%ED%97%98%ED%95%98%EA%B8%B0/quiz/1)  
   
