@@ -10,8 +10,8 @@ Day01 231021
   
    o 시험유형  
      (1유형) 데이터 분석, 3문제(30점) -> Numpy, Pandas  
-     (2유형) 데이터 분석 (40점) -> 정형화됨 (랜덤 포레스트?)  
-     (3유형) 통계, 2문제(30점) -> 신유형(2023~)  
+     (2유형) 데이터 분석 (40점) -> Scikit-learn 정형화됨 (랜덤 포레스트)  
+     (3유형) 통계, 2문제(30점) -> Scipy
   
    o Pycharm 설정  
     - settings -> File Encodings -> project Encoding : window 949 -> UTF-8 변경  
@@ -20,8 +20,9 @@ Day01 231021
     - 한줄 실행 : Alt + Shift + E  
     - 여러줄 실행 : 드래그 후 Alt + Shift + E  
       
-  02. 기초문법 (내용 정리 생략)  
-   - 점프 투 파이썬 (https://wikidocs.net/book/1)  
-   - 숫자형 / 문자열 / 리스트 / 튜플 / 딕셔너리 / 집합 / 불리언 / if문   
+   o reference  
+    - 점프 투 파이썬(기초문법) : https://wikidocs.net/book/1    
+    - 공학자를 위한 Python(Numpy) : https://wikidocs.net/14569
+    - 데이터사이언스스쿨 : https://datascienceschool.net/intro.html
 
  
