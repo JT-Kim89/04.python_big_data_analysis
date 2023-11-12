@@ -34,4 +34,5 @@ o Reference
  - 데이터 입문자를 위한 파이썬 판다스 300제 : https://wikidocs.net/book/4852  
  - 경영통계분석(통계 이론) : http://kocw.or.kr/home/cview.do?cid=9d2e1e8ac755bc24  
  - Introduction to Mathematical Statistics(통계 이론_대학원) : https://online.stat.psu.edu/stat415
- 
+ - 빅데이터 분석기사 실기 (PYTHON) : https://www.datamanim.com/dataset/03_dataq/index_big_python.html  
+   
